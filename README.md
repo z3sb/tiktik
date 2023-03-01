@@ -2,7 +2,7 @@
 
 ## A Social Media Video App Like TikTok using **NextJs && Typescript**
 
-### Check the Demo [**Here**]() .
+### Check the Demo [**Here**](https://tiktik-z3sb.vercel.app/) .
 
 ---
 
