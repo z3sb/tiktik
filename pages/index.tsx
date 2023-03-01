@@ -4,7 +4,7 @@ import VideoCard from "@/components/VideoCard";
 import NoResults from "@/components/NoResults";
 import { NextPage } from "next";
 import { BASE_URL } from "@/utils";
-
+ 
 interface IProps {
   videos: Video[];
 }
